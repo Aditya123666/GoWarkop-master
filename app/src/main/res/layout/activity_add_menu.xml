@@ -65,27 +65,27 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         >
-        <Button
-            android:id="@+id/pilihimage"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/marginLeft_login"
-            android:layout_marginRight="@dimen/marginLeft_login"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/button_login"
-            android:text="Pilih Gambar"
-            android:textColor="@color/colorWhite"
-            />
-        <ImageView
-            android:id="@+id/iv_addmenu"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_marginLeft="@dimen/marginLeft_login"
-            android:layout_marginRight="@dimen/marginLeft_login"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/ic_launcher_background"
-            android:text="Add Menu"
-            android:textColor="@color/colorWhite" />
+        <!--<Button-->
+            <!--android:id="@+id/pilihimage"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="@dimen/marginLeft_login"-->
+            <!--android:layout_marginRight="@dimen/marginLeft_login"-->
+            <!--android:layout_marginTop="20dp"-->
+            <!--android:background="@drawable/button_login"-->
+            <!--android:text="Pilih Gambar"-->
+            <!--android:textColor="@color/colorWhite"-->
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/iv_addmenu"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="150dp"-->
+            <!--android:layout_marginLeft="@dimen/marginLeft_login"-->
+            <!--android:layout_marginRight="@dimen/marginLeft_login"-->
+            <!--android:layout_marginTop="20dp"-->
+            <!--android:background="@drawable/ic_launcher_background"-->
+            <!--android:text="Add Menu"-->
+            <!--android:textColor="@color/colorWhite" />-->
 
         <Button
             android:id="@+id/btn_addmenu"
